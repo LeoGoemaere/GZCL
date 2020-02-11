@@ -25,7 +25,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.85,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -84,7 +84,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.85,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -143,7 +143,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.85,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -202,7 +202,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.85,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -271,7 +271,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.9,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -335,7 +335,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.9,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -394,7 +394,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.9,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -453,7 +453,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.9,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -527,7 +527,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.95,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -606,7 +606,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.95,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -685,7 +685,7 @@
 					  {
 						"reps": 2,
 						"tm": 0.95,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -764,7 +764,7 @@
 					  {
 						"reps": 1,
 						"tm": 0.95,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  },
@@ -848,7 +848,7 @@
 					  {
 						"reps": 1,
 						"tm": 1,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  }
@@ -879,7 +879,7 @@
 					  {
 						"reps": 1,
 						"tm": 1,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  }
@@ -910,7 +910,7 @@
 					  {
 						"reps": 1,
 						"tm": 1,
-						"pr": true
+						"isAmrap": true
 					  }
 					]
 				  }
