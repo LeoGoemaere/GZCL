@@ -2,11 +2,11 @@
 
 	<div v-if="!isExerciceValidated" class="add-exercice space__x">
 		<button class="button" @click="showPopin">
-			Add {{exerciceType}} exercice
+			Add {{typeNameForExercice}} exercice
 		</button>
 		<div :class="popinActiveClass" class="popin__element">
 			<div class="exercices__list">
-				<p class="popin__title">{{exerciceType}} Exercices</p>
+				<p class="popin__title">{{typeNameForExercice}} Exercices</p>
 
 				<div
 					v-if="type === 'primary'" 
@@ -57,7 +57,7 @@
 				<span>{{exerciceData.name}}</span>
 			</div>
 			<div class="set-container__exercice-labels-container">
-				<p class="exercice-label__type">{{exerciceType}}</p>
+				<p class="exercice-label__type">{{typeNameForExercice}}</p>
 				<button @click="showNotif" class="trash">
 					<i class="far fa-trash-alt icon__trash"></i>
 				</button>
@@ -143,6 +143,19 @@ export default {
 		this.sets = this.lift.sets;
 	},
 	computed: {
+		typeNameForExercice: function() {
+			switch (this.setOrder) {
+				case 0:
+					return 'T1'
+					break;
+				case 1: 
+					return 'T2'
+					break;
+				default:
+					return 'T3'
+					break;
+			}
+		},
 		...mapGetters([
 			'getCurrentVariation',
 			'getSelectedTemplate',
