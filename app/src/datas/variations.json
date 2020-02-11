@@ -1,0 +1,955 @@
+{
+	"67b9809b-fed5-4cbc-be54-96438e6b60d5": {
+	  "name": "GZLC",
+	  "templates": [
+		{
+		  "name": "Linear",
+		  "description": "",
+		  "weeks": [
+			{
+			  "name": "Week 1",
+			  "days": [
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.85,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.85,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.85,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 4,
+						"tm": 0.85,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.85,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  },
+					  {
+						"reps": 10,
+						"tm": 0.65,
+						"pr": false
+					  }
+					]
+				  }
+				]
+			  ]
+			},
+			{
+			  "name": "Week 2",
+			  "days": [
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 3,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  },
+					  {
+						"reps": 8,
+						"tm": 0.7,
+						"pr": false
+					  }
+					]
+				  }
+				]
+			  ]
+			},
+			{
+			  "name": "Week 3",
+			  "days": [
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.95,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.95,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 0.95,
+						"pr": true
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  },
+				  {
+					"sets": [
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  },
+					  {
+						"reps": 6,
+						"tm": 0.75,
+						"pr": false
+					  }
+					]
+				  }
+				]
+			  ]
+			},
+			{
+			  "name": "Max",
+			  "days": [
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": true
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": true
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": true
+					  }
+					]
+				  }
+				],
+				[
+				  {
+					"sets": [
+					  {
+						"reps": 1,
+						"tm": 0.9,
+						"pr": false
+					  },
+					  {
+						"reps": 2,
+						"tm": 0.95,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  },
+					  {
+						"reps": 1,
+						"tm": 1,
+						"pr": false
+					  }
+					]
+				  }
+				]
+			  ]
+			}
+		  ]
+		}
+	  ]
+	}
+  }
