@@ -8,7 +8,7 @@ import Exercices from '@/datas/exercices.json';
 import Variations from '@/datas/variations.json';
 
 const vuexPersist = new VuexPersist({
-	key: 'Wendler-531',
+	key: 'gzcl',
 	storage: localStorage
 })
 
