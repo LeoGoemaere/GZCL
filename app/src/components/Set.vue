@@ -13,6 +13,7 @@
 			<span v-if="set.tm" class="set__unit">kg</span>
 			<span v-if="!set.tm" class="set__reps-label">reps</span>
 		</div>
+		<p v-if="!extraSet" class="set__infos">{{tmPercentage}}%</p>
 		<p v-if="extraSet" :class="`set__type--${extraSet.type}`" class="set__type">
 			{{extraSet.name}}
 		</p>
@@ -37,6 +38,11 @@ export default {
 	methods: {
 		roundValue: function(value) {
 			return isNaN(value) ? 0 : Math.ceil(value * 4) / 4;
+		}
+	},
+	computed: {
+		tmPercentage: function() {
+			return this.roundValue(this.set.tm * 100);
 		}
 	}
 }
@@ -104,5 +110,9 @@ export default {
 	.set__reps-label {
 		display: block;
 		margin-left: 5px;
+	}
+	.set__infos {
+		margin-left: auto;
+		opacity: .5;
 	}
 </style>
